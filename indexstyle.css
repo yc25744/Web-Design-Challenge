@@ -1,0 +1,57 @@
+.navbar-brand{
+    background-color: rgb(42, 182, 175);
+    color: white;
+    margin-left: 30px;
+	padding: 10px;	
+	font-size: 25px;
+}
+
+
+
+.navbar{
+    max-height: 50px; 
+	color: white;
+    background-color: rgb(42, 182, 175);
+}
+
+
+
+.body {
+    background-color: rgb(73, 73, 73);
+}
+
+.box {
+    margin-top: 60px;
+    margin-bottom: 62px;
+    padding: 10px 20px 15px;
+    color: black;
+    background-color: white;
+}
+
+.title {
+    color: rgb(42, 182, 175);
+    font-weight: bolder;
+    padding-top: 25px;
+}
+
+.index_photo {
+    width: 50% !important;
+    height: 50% !important;
+}
+
+.active,
+.panel:hover {
+    border-color: rgb(42, 182, 175);
+    border-style: solid;
+}
+
+img {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+
+  .table{
+    font-size: 15px; 
+    border-top-color: white !important; 
+}
